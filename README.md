@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Harshita0987/DevTestPrac/_apis/build/status/sheitu05.pipelines-java?branchName=master)](https://dev.azure.com/Harshita0987/DevTestPrac/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
